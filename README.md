@@ -142,23 +142,12 @@ Madhu Vaghela
 ---
 
 # GitHub
+GitHub repository link here.
+GitHub: https://github.com/madhu-dev3054/DailyTasks
 
-Add your GitHub repository link here.
-
-Example:
-
-```bash
-https://github.com/yourusername/todo-app
-```
 
 ---
 
 # Live Demo
-
-Add your live hosted project link here after deployment.
-
-Example:
-
-```bash
-https://yourproject.infinityfreeapp.com
-```
+live hosted project link here.
+ https://dailytasks.infinityfreeapp.com
