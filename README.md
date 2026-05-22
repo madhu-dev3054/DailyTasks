@@ -150,4 +150,4 @@ GitHub: https://github.com/madhu-dev3054/DailyTasks
 
 # Live Demo
 live hosted project link here.
- https://dailytasks.infinityfreeapp.com
+ https://daily-tasks.great-site.net 
